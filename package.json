@@ -3,9 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "date-fns": "^1.29.0",
+    "daypilot-pro-react": "https://npm.daypilot.org/daypilot-pro-react/trial/2018.2.3297.tar.gz",
+    "moment": "^2.22.2",
     "react": "^16.6.3",
+    "react-date-picker-cs": "^0.1.28",
+    "react-datepicker": "^1.8.0",
     "react-dom": "^16.6.3",
-    "react-scripts": "2.1.1"
+    "react-scripts": "2.1.1",
+    "react-time-picker": "^3.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
